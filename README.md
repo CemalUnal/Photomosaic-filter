@@ -4,4 +4,5 @@ This project is an implementation of a photomosaic filter. Actually photomosaic 
 # License
 Matlab
 
-Results of this filter is provided in the results.pdf file. Also you can see details of this project in this pdf file. (see https://github.com/CemalUnal/XDoG-Filter/blob/master/results/results.pdf)
+# Notes
+Results of this photomosaic filter is provided in the results.pdf file. Also you can see details of this project in this pdf file. (see https://github.com/CemalUnal/XDoG-Filter/blob/master/results/results.pdf)
